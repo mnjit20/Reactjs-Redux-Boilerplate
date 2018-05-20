@@ -1,0 +1,40 @@
+$primary: #006699;
+$black:#333;
+
+h2 {
+	color: $black;
+}
+
+.center{
+	text-align: center;
+}
+
+.list-thumbs{
+	max-height: 100px;
+	max-width: 100px;
+}
+
+.left{
+	max-width: 500px;
+	float: left;
+}
+.right{
+	margin-left: 40%;
+}
+
+.list-title{
+float: left;
+width: 80%;
+}
+.homeBreif{
+	clear: both;
+    padding: 0;
+    margin: 0;
+}
+
+.homeBreif li{
+float: left;
+width: 100%;
+color: #2b3630;
+padding: 10px 0 0;
+}
